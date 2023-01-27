@@ -1,6 +1,6 @@
 ### Data Visualisation with Tableau
 
-# Sentiment Analysis
+# Sentiment Analysis on Rick and Morty Scripts
 
 Finding the emotion or intent behind a piece of text is a complex task due to the intricacies of textual data.
 In this project I used NLTK and other python libraries to perform basic sentiment analysis on Rick and Morty Scripts.
@@ -17,10 +17,6 @@ In this project I used NLTK and other python libraries to perform basic sentimen
 
 
 ---
-
-____
-
-
 
 ### Titanic Survivors visualisation using the Kaggle dataset
 
